@@ -1,7 +1,7 @@
 tqdm
 rotary_embedding_torch
 transformers
-tokenizers
+tokenizers==0.13.3
 inflect
 progressbar
 einops
